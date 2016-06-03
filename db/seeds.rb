@@ -1,0 +1,5 @@
+Horse.create!(name: "Penelope", age: 14)
+Horse.create!(name: "Pepe", age: 20)
+Horse.create!(name: "Pete", age: 18)
+Horse.create!(name: "Paula", age: 44)
+Horse.create!(name: "Penn", age: 64)
